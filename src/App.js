@@ -1,5 +1,6 @@
 //import React from 'react';
-import React, { Component } from 'react'; // destructuring!
+import React, { Component } from 'react'; 
+// destructuring! allows us to pull props off an object and set them to constants
 
 import {CardList} from './components/card-list/card-list.component';
 import {SearchBox} from './components/search-box/search-box-component';
